@@ -1,7 +1,15 @@
-# wx-cloudwork
-WeChat for  ClouderWork
+# 微信小程序实现一个众包平台
+### 项目说明：
+微信小程序：实现一个众包平台  
+
+[数据来源：云族佳]
+
+### 目录结构：
+- images — 存放项目图片
+- pages — 存放项目页面相关文件
+- style — 存放独立wxss样式文件，可import引入
+- utils — 存放utils文件，可require引入
 
 
-开发环境：
-微信web开发者工具（v0.10.101400）
-
+### 开发环境：
+微信web开发者工具 v0.9.092300
